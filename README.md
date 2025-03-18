@@ -12,4 +12,4 @@ Esta es una aplicación web sencilla que te permite organizar un Amigo Secreto. 
 
 - HTML5
 - CSS3
-- JavaScript Vanilla (puro)
+- JavaScript 
